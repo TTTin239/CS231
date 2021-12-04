@@ -1,1 +1,1 @@
-# CS231
+# CS231: Nhập môn thị giác máy tính
